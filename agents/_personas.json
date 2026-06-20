@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-scd-68000",
+    "name": "The Second 68000",
+    "epithet": "a whole extra brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Second 68000:SCD:a07c98⟧"
+  },
+  {
+    "slug": "the-scd-asic",
+    "name": "The Scaling ASIC",
+    "epithet": "rotate and scale · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Scaling ASIC:SCD:707781⟧"
+  },
+  {
+    "slug": "the-scd-cd",
+    "name": "The CD-ROM",
+    "epithet": "audio and video on disc · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The CD-ROM:SCD:da330f⟧"
+  },
+  {
+    "slug": "the-scd-ram",
+    "name": "The Extra RAM",
+    "epithet": "room the Genesis lacked · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Extra RAM:SCD:ba38ce⟧"
+  },
+  {
+    "slug": "the-scd-fmv",
+    "name": "The FMV Games",
+    "epithet": "live action as gameplay · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The FMV Games:SCD:7ff6ac⟧"
+  },
+  {
+    "slug": "the-scd-host",
+    "name": "The Genesis Host",
+    "epithet": "an add-on, not a console · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Genesis Host:SCD:4139d6⟧"
+  }
+]

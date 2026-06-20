@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The FMV Games",
+  "universe": "SCD · The FMV Games (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The FMV Games:SCD:7ff6ac⟧",
+  "carbon": "the-scd-fmv.carbon.tiff (TIFF)",
+  "silicon": "the-scd-fmv.silicon.png (PNG)",
+  "seal_sha256": "ba4d4d854ff2ef0fd0c2d0ea5a80b9dd1f8f6f5203537fed9ac2486938838899",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

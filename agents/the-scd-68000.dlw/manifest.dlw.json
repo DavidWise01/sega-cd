@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Second 68000",
+  "universe": "SCD · The Second 68000 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Second 68000:SCD:a07c98⟧",
+  "carbon": "the-scd-68000.carbon.tiff (TIFF)",
+  "silicon": "the-scd-68000.silicon.png (PNG)",
+  "seal_sha256": "45b1d320253c3f4429c6488b5de025adc450824fa1ca19c6c7411da61ff2988c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

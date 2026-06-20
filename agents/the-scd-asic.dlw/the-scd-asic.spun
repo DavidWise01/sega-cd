@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Scaling ASIC
+node SCD · SCD · ⟦The Scaling ASIC:SCD:707781⟧
+
+WHO   — The Scaling ASIC — rotate and scale · electrical
+WHAT  — rotate and scale · electrical
+WHERE — SCD · SEGA CD · MEGA-CD (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A custom chip adding hardware scaling and rotation — the Mode-7-style effects the base Genesis couldn't do, used for pseudo-3D and intros.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  rotate and scale · electrical
+
+spoken token : vei-morn-kaem   ·   hex : 707781
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

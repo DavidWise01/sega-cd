@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SEGA CD · MEGA-CD",
+  "universe": "SCD · SEGA CD · MEGA-CD (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦SEGA CD · MEGA-CD:SCD:3ce4b4⟧",
+  "carbon": "sega-cd.carbon.tiff (TIFF)",
+  "silicon": "sega-cd.silicon.png (PNG)",
+  "seal_sha256": "a9a0659e32bdeb6793b1c9d2cac01cab479e4b008f7ff306f73fd0538cf75505",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

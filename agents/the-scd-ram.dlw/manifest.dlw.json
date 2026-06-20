@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Extra RAM",
+  "universe": "SCD · The Extra RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Extra RAM:SCD:ba38ce⟧",
+  "carbon": "the-scd-ram.carbon.tiff (TIFF)",
+  "silicon": "the-scd-ram.silicon.png (PNG)",
+  "seal_sha256": "c302382a47953974736f1224e3b437451b1c6262f8376475dc7616ee8a6038e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

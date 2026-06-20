@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CD-ROM",
+  "universe": "SCD · The CD-ROM (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The CD-ROM:SCD:da330f⟧",
+  "carbon": "the-scd-cd.carbon.tiff (TIFF)",
+  "silicon": "the-scd-cd.silicon.png (PNG)",
+  "seal_sha256": "a6cc8cba530dee443962da1814ddb70711c7b8420cc1d6969ad119f96f26122a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

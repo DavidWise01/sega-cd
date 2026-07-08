@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 866
+slug  : sega-cd
+seal  : a9a0659e32bdeb6793b1c9d2cac01cab479e4b008f7ff306f73fd0538cf75505
+prev  : 6608c6803e6d8978bc17797ba57b4db17c36f28a41cc82b4f1778666084157d1
+link  : 934d1b39742b6e6347c635aa61ead5709230796605d7a41a7e0126980068751d
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

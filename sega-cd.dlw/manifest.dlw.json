@@ -1,21 +1,19 @@
 {
-  "badge": "DLW-ACI",
-  "name": "SEGA CD · MEGA-CD",
-  "universe": "SCD · SEGA CD · MEGA-CD (exereunesis · the teardown)",
-  "emergence": "",
-  "moniker": "⟦SEGA CD · MEGA-CD:SCD:3ce4b4⟧",
-  "carbon": "sega-cd.carbon.tiff (TIFF)",
-  "silicon": "sega-cd.silicon.png (PNG)",
-  "seal_sha256": "a9a0659e32bdeb6793b1c9d2cac01cab479e4b008f7ff306f73fd0538cf75505",
-  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-SEGA_CD",
+  "name": "SEGA CD · MEGA-CD · SCD",
+  "universe": "EXEREÚNESIS",
+  "moniker": "⟦SEGA CD · MEGA-CD · SCD:sega-cd:8a7574⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "8a7574dc7fc95814ca20fa1ac527d7e94943ad9b3f9b2aaa87c72d066fa13a3c",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 866,
-    "prev": "6608c6803e6d8978bc17797ba57b4db17c36f28a41cc82b4f1778666084157d1",
-    "link": "934d1b39742b6e6347c635aa61ead5709230796605d7a41a7e0126980068751d",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "6f97452590c8f0fcd2aa595f889f4360d44d3b74319c973a06bb5f8c4d140687",
+    "link": "90f2fdf951533374786fb19d80400f5d75378559659fe5edf4a939528392e577",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
